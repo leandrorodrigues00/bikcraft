@@ -1,6 +1,6 @@
 # 🚴‍♂️ Bikcraft
 
-![Design preview ](./public/desktop-preview.png)
+![Design preview ](./src/img/desktop-preview.png)
 
 <br>
 
