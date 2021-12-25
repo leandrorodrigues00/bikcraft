@@ -1,4 +1,26 @@
-# bikcraft -- Under Construction   <img width="45" alt="schermafbeelding 2017-09-27 om 23 08 12" src="https://user-images.githubusercontent.com/7254997/30937972-c9632d04-a3d8-11e7-87f3-c44ce2b86d24.png">
- 
+# 🚴‍♂️ Bikcraft
 
-![Construction Scene](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/construction-scene/Capture.PNG)
+![Design preview ](./public/desktop-preview.png)
+
+<br>
+
+## WELCOME! 👋
+
+This project was developed during the course at [Origamid](https://www.origamid.com/).<br>
+Where I was able to consolidate my knowledge in html, css and javascript.
+
+<br><br>
+
+## Technologies Used 🧩
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Website
+  <br><br>
+
+---
+
+<p align="center">
+  Made with 💜&nbsp; by  Leandro Rodrigues
+</p>
