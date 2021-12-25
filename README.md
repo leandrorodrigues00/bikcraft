@@ -9,6 +9,9 @@
 This project was developed during the course at [Origamid](https://www.origamid.com/).<br>
 Where I was able to consolidate my knowledge in html, css and javascript.
 
+
+[click here, see closer](https://bikcraft-azure.vercel.app/)  😉
+
 <br><br>
 
 ## Technologies Used 🧩
