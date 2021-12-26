@@ -6,8 +6,9 @@
 
 ## WELCOME! 👋
 
-This project was developed during the course at [Origamid](https://www.origamid.com/).<br>
-Where I was able to consolidate my knowledge in html, css and javascript.
+* This project was developed during the course at [Origamid](https://www.origamid.com/).<br>
+* Where I was able to consolidate my knowledge in html, css and javascript.<br>
+* This is a site for buying bicycles and insurance for them; developed only with html, javascritp and css;
 
 
 [click here, see closer](https://bikcraft-azure.vercel.app/)  😉
